@@ -10,11 +10,11 @@
 - 💼 I’m actively seeking job opportunities in my field.
 - 💻 I’m looking to collaborate on projects.
 - 💬 Ask me about: 🐍 Python.
-- 📫 You can reach me on [Email](otawiochaves@icloud.com).
+- 📫 You can reach me on [HERE](otawiochaves@icloud.com).
 
 ---
 
-<h2 align="center">👨‍💻 WhoAmI</h2>
+<h2 align="center">👨‍💻 Who I am</h2>
 <p align="center">
   <samp>A recent graduate in Data Analytics for Business with a Bachelor of Industrial Engineering, I bring a unique skill set to any organization. I combine these two skills to deliver analytics that can drive business growth. I am well equipped to provide valuable information, streamline production processes, and enhance logistical development.</samp>
 </p>
