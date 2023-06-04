@@ -1,6 +1,7 @@
 ### <p align='center'> Hi there 👋 I am Otáwio</p>
 
-- 🔭 I'm currently working on building my data analyst portfolio, which involves analyzing insights based on data exploration and tackling specific target problems. My analyses encompass techniques such as visualizations, custom data cleaning, text processing, machine learning projects for classification and regression. I also conduct customer segmentation, pricing analysis and optimization, forecasting and predictive modeling, customer churn analyses, basket analyses, and various other techniques aimed at driving business growth.
+  <samp>🔭 I'm currently working on building my data analyst portfolio, which involves analyzing insights based on data exploration and tackling specific target problems. My analyses encompass techniques such as visualizations, custom data cleaning, text processing, machine learning projects for classification and regression. I also conduct customer segmentation, pricing analysis and optimization, forecasting and predictive modeling, customer churn analyses, basket analyses, and various other techniques aimed at driving business growth.</samp>
+</p>
 
 ---
 
