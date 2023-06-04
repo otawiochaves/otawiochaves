@@ -21,17 +21,4 @@
 
 ---
 
-<!-- Contact Me section-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ot%C3%A1wio-chaves-849b71278/">
-    <img src="https://img.shields.io/badge/LinkedIn-Otáwio-purple?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="LinkedIn de Otáwio Chaves"/>
-  </a>
-  <a href="mailto:otawiochaves@icloud.com">
-      <img
-      src="https://img.shields.io/badge/Gmail-otawiochaves@icloud.com-purple?label=E-mail&logo=gmail&style=for-the-badge&color=blue" alt="E-mail de Otáwio Chaves"/>
- </a>
-</p>
-
----
-
 <h2 align="center">💻 Check Out My Repositories ⬇️ </h2>
