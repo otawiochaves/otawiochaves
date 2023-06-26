@@ -6,7 +6,7 @@
 ---
 
 - 🏠 I'm based in Dublin, Ireland.
-- 🌱 I’m currently learning SQL and Tableau.
+- 🌱 I’m currently learning Tableau.
 - 💼 I’m actively seeking job opportunities in my field.
 - 💻 I’m looking to collaborate on projects.
 - 💬 Ask me about: 🐍 Python.
